@@ -1,8 +1,9 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/OLLHpiQA)
 - NOM : DE MOURA 
 - PRÉNOM : Maxime
-- URL du site :
-- URL FIGMA : 
+- URL du site : quoote.maximedemoura.fr
+- URL du Netlify : https://shiny-crisp-840b47.netlify.app/fr/
+- URL FIGMA : https://www.figma.com/file/FvnKiQfyJatv9N0pc1MB2J/QUOOTE?type=design&node-id=0%3A1&mode=design&t=lFvgNZZST6PZnsaF-1
 
 # Structure de départ pour le projet individuel.
 
